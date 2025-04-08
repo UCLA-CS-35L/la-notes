@@ -5,8 +5,15 @@ Constructions.
 
 ## Usage
 
-The following notes are _testable_. It is recommended that you at least skim
-them.
+To get started,
+
+```sh
+git clone https://github.com/UCLA-CS-35L/la-notes.git`
+cd la-notes
+```
+
+All notes are located inside `lectures` as Markdown files. The following notes
+are _testable_. It is recommended that you at least skim them.
 
 It is further recommended to take additional notes beyond what is mentioned
 here: the goal is to provide a basic scaffold for you to add additional notes
