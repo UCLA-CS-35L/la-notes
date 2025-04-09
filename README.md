@@ -1,7 +1,7 @@
 # UCLA COM SCI 35L Learning Assistant Notes
 
-Notes taken by learning assistants to support UCLA COM SCI 35L: Software
-Constructions.
+Notes taken by undergraduate learning assistants to support UCLA COM SCI 35L:
+Software Construction.
 
 ## Usage
 
