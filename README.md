@@ -29,6 +29,8 @@ Please try to stick to the style guidelines established in the `.editorconfig`
 file. If you wish to contribute, please feel free to submit an issue or fork the
 repository/submit a pull request!
 
+Use <https://tinyurl.com/cs35l-notes-feedback> to send anonymous feedback!
+
 - Feel free to reach out on Piazza or by email with concerns about accuracy.
   This quarter (Spring 2025) is the first time we are adding LA-supported course
   notes, so there may be inaccuracies. If something looks off, feel free to
