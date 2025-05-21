@@ -29,6 +29,8 @@ Please try to stick to the style guidelines established in the `.editorconfig`
 file. If you wish to contribute, please feel free to submit an issue or fork the
 repository/submit a pull request!
 
+An extension on VSCode that may help with visualizing your changes is Markdown Preview Enhanced. You could also use a markdown editor!
+
 Use <https://tinyurl.com/cs35l-notes-feedback> to send anonymous feedback!
 
 - Feel free to reach out on Piazza or by email with concerns about accuracy.

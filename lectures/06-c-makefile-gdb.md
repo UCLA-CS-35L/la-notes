@@ -1,7 +1,7 @@
 ---
 title: "06. C, Makefile, and GDB"
-author: Charlton Shih 
-date: 2025-05-6
+author: Pavan Gudavalli
+date: 2025-05-13
 ---
 
 # C
@@ -130,6 +130,11 @@ The format of each command is `target: dependency sysCommand(s)`
 - Dependencies: files used to create target
 - System Commands: the actual action that is run on the command line.
 
+So, the above commands allow the user to, on the command line, run
+```sh
+make exampleOut # create the executable; make would also work
+make clean # remove the executable
+```
 Some other aspects of makefile include
 
 - You can define variables like in our first line
