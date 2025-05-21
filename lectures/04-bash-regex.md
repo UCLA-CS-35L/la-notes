@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "04. Bash and Regular Expressions"
 author: Eric Wang
 date: 2025-04-10

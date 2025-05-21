@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "03. The Shell and the Filesystem"
 author: Eric Wang
 date: 2025-04-08

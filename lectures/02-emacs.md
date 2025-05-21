@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "02. Emacs"
 author: Eric Wang
 date: 2025-04-03
